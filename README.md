@@ -98,6 +98,8 @@ These records were retained as a data-quality finding rather than being removed 
 
 ## Power BI Dashboard
 
+![Healthcare Analysis Dashboard](dashboard.png)
+
 The Power BI dashboard includes:
 
 - Total Patients KPI
